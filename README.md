@@ -1,6 +1,6 @@
 # Apresentação no GitHub
 
-Olá! 👋 Sou [Fernando], um entusiasta de tecnologia apaixonado por desenvolvimento de software e inovação. Estou animado para compartilhar um pouco sobre mim e minhas habilidades técnicas.
+Olá! 👋 Sou Fernando, um entusiasta de tecnologia apaixonado por desenvolvimento de software e inovação. Estou animado para compartilhar um pouco sobre mim e minhas habilidades técnicas.
 
 ## Sobre Mim
 Sempre fui fascinado pelo mundo da tecnologia e como ela molda nossa sociedade. Ao longo dos anos, mergulhei de cabeça no desenvolvimento de software e venho trabalhando arduamente para aprimorar minhas habilidades e conhecimentos nessa área empolgante.
